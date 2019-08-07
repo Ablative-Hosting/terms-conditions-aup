@@ -40,11 +40,7 @@ the term "Multi-hop onion".
 
 Uncensorable websites present an ethical problem. I believe that free speach
 is very important but likewise I don't want to provide a platform to those who
-would see me and mine, my neighbours or my friends come to harm.
-
-To that end I would like to try an experiment. I would like to crowd source the
-Acceptable Usage Policy *(and to a lesser degree the Terms and Conditions)* for
-the Ablative Hosting platform.
+would see others come to harm.
 
 I want to help marginalised communities flower, I want to help those without a
 voice be heard, I want to help those whose stories get shutdown by lawyers who
